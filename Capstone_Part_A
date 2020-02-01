@@ -1,0 +1,3 @@
+git remote add origin https://github.com/SumedhKanao/Coursera_Capstone.git
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/75b2a739-ca4e-4e9f-8437-8c9c791093a0/view?access_token=c57605858cd883556d20b96e2c653711533622bc49665572c104c91a27c79c30
+git push -u origin master
